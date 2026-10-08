@@ -1,29 +1,29 @@
-# [Project Name]
+# IDEANET
 
-> [One-line description of the project and what it does.]
+> A Global social platform for hackathon builders to connect, collaborate, showcase their projects, and validate their ideas through an AI-powered originality rating system.
 
 ## Team
 
-**Team Name:** [Team Name]
+**Team Name:**Tesseract Testers
 
 
-| Member | Contribution   |
-| ------ | -------------- |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
+| Member                               | Contribution              |
+| ------                               | -------------- |
+| [Jatin Naga Sai Batchu]              | [Backend and database] |
+| [Lakshanya Ilan Sezhiyan]            | [Frontend] |
+| [Akshitha Venkatesh Devithulasimani] | [Login, data and git captain] |
+| [Aakaash V]                          | [AI Engineer] |
 
 
 ## Problem Statement
 
 ### The Problem
 
-[Describe the problem being addressed, who is affected by it, and the context in which it occurs.]
+Hackathon participants currently use separate platforms such as GitHub, social media, and hackathon websites to find teammates,to check the originality of the idea, share projects, track achievements , and discover opportunities. There is also no simple way to check how original an idea is before developing it. This makes it difficult for builders to connect with the right people and avoid creating projects that already exist.
 
 ### Why We Chose This Problem
 
-[Explain why the team selected this problem and why solving it is important.]
+Hackathons are becoming a major way for students and developers to learn, collaborate, and create innovative solutions. However, builders often struggle to find suitable teammates and determine whether their ideas are truly unique. We chose this problem to create a single platform that connects the hackathon community while helping users validate and improve their ideas.
 
 ## Solution
 
